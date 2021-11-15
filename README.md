@@ -1,8 +1,8 @@
 # Neural_Network_Charity_Analysis
 
-## Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis: 
 
-## Results: Using bulleted lists and images to support your answers, address the following questions.
+## Results:
 
 ### Data Preprocessing
 - What variable(s) are considered the target(s) for your model?
@@ -14,4 +14,4 @@
 - Were you able to achieve the target model performance?
 - What steps did you take to try and increase model performance?
 
-## Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+## Summary: 
