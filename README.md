@@ -24,3 +24,9 @@ Beks wants to predict whether applicants will be successfully funded by Alphabet
 - The model performance increased on converting the NAME column into data points, which has the biggest impact on improving efficiency. It also increased by adding a third layer and using the "sigmoid" activation function for the 2nd and 3rd layer.
 
 ## Summary: 
+An applicant has a 78.9% chance of being successful if they have the following:
+- The **name** of the applicant appears more than 5 times (they have applied more than 5 times)
+- The **type of application** is one of the following; **T3, T4, T5, T6, and T19**
+- The application has the following **class**: **C1000, C2000, C3000, C1200, and C210**0.
+
+Another good model to recommend is the Random Forest model because they are good for classification problems. 
